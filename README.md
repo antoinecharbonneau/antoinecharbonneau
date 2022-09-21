@@ -1,13 +1,18 @@
 Polytechnique Montréal - Software Engineering
 
-Interested in :
+## Fields of interest
 
-1. Problem solving 
-2. Virtualization & Cloud computing
-3. Algorithms
-4. High-performance solutions
-5. New technologies.
+* Problem solving 
+* Virtualization & Cloud computing
+* Automation of processes
+* Algorithms
+* High-performance solutions
+* New technologies.
 
-Intern @ Nuance Communications for Summer 2021
+## Past experiences
+
+* DevOps Intern @ Nuance Communications for Summer 2021
+* Deploying OpenStack platform on company hardware with Ceph backend for storage
+
 
 Recipient of the grant for excellence in software engineering from Quebec's Minister of Higher Education.
